@@ -1,6 +1,6 @@
 ![header](https://github.com/raduwka/raduwka/blob/main/assets/mainportfolio.png?raw=true)
 
-about me
+## I'm beginner QA Engineer and Developer 
 
 languages and tools
 
