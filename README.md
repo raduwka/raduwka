@@ -1,16 +1,14 @@
-## Hi there 👋
+#
 
-<!--
-**raduwka/raduwka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie&pause=1000&color=65E669&background=35F74E00&width=435&lines=Hi%2C+there%F0%9F%96%90%F0%9F%8F%BB+I'm+Raduwka+-+QA-engineer+)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### ⚒️ skills:
+[![](https://skillicons.dev/icons?i=git,py,bots,pycharm,vscode,postman,discord,windows,mysql)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+### 🧠 about:
+<img align="right" alt="raduwka" src="images/k0n.jpg" width="400px" />
+
+- 🌎 space lover with an interest in various programming languages and technologies
+- 🏃🏻‍♀️💨 neuroeducation, literary ambient. During my off-time, i enjoy reading books, running and relaxing at home ^^
+
