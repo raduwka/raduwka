@@ -7,7 +7,7 @@
 
 #
 ### 🧠 about:
-<img align="right" alt="raduwka" src="images/k0n.jpg" width="400px" />
+<img align="right" alt="raduwka" src="k0n.jpg" width="400px" />
 
 - 🌎 space lover with an interest in various programming languages and technologies
 - 🏃🏻‍♀️💨 neuroeducation, literary ambient. During my off-time, i enjoy reading books, running and relaxing at home ^^
